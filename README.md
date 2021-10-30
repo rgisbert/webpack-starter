@@ -41,3 +41,14 @@ Además instala más paquetes que sólo va a utilizar para esta versión:
 
     css-minimizer-webpack-plugin
     terser-webpack-plugin
+
+
+# Webpack Starter
+
+Este es el proyecto inicial para crear aplicaciones utilizando webpack.
+
+
+### Notas:
+Recordar reconstruir los módulos de node: ```npm install```.
+
+Y para consruir el build, recordar usar: ```npm run build```.
